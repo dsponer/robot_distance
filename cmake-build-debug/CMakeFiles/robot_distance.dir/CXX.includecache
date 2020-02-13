@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/dsponer/Documents/Programming/CLionProjects/robot_distance/main.cpp
+F:/cLionProject/robot_distance/main.cpp
 iostream
 -
 cmath
@@ -14,5 +14,9 @@ cmath
 ctime
 -
 chrono
+-
+thread
+-
+extApi.h
 -
 

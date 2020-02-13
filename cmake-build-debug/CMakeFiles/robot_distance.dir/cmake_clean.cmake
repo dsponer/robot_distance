@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/robot_distance.dir/main.cpp.o"
-  "robot_distance"
+  "CMakeFiles/robot_distance.dir/main.cpp.obj"
+  "librobot_distance.dll.a"
+  "robot_distance.exe"
+  "robot_distance.exe.manifest"
   "robot_distance.pdb"
 )
 
