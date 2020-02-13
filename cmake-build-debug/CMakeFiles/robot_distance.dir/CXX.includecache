@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dsponer/Documents/Programming/CLionProjects/robot_distance/main.cpp
+iostream
+-
+cmath
+-
+ctime
+-
+chrono
+-
+
